@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/albertkunushevci/Downloads/skedda-technical-challenge/FisherYates/FisherYatesWebApp/FisherYatesWebApp.csproj": {}
+  },
+  "projects": {
+    "/Users/albertkunushevci/Downloads/skedda-technical-challenge/FisherYates/FisherYatesWebApp/FisherYatesWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/albertkunushevci/Downloads/skedda-technical-challenge/FisherYates/FisherYatesWebApp/FisherYatesWebApp.csproj",
+        "projectName": "FisherYatesWebApp",
+        "projectPath": "/Users/albertkunushevci/Downloads/skedda-technical-challenge/FisherYates/FisherYatesWebApp/FisherYatesWebApp.csproj",
+        "packagesPath": "/Users/albertkunushevci/.nuget/packages/",
+        "outputPath": "/Users/albertkunushevci/Downloads/skedda-technical-challenge/FisherYates/FisherYatesWebApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/albertkunushevci/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/albertkunushevci/Arcenox/Git-Projects/TickerQ/Ticker/bin/Debug/": {},
+          "/Users/albertkunushevci/Arcenox/LocalNugetPackages/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
